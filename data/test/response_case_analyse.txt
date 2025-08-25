@@ -1,0 +1,260 @@
+response_label_cases:              Yes, when selecting to dine at the Little Seoul restaurant, individuals have the option to be placed in their outdoor seating area.
+baseline_label_cases:              Yes, there is outdoor seating at Little Seoul. Past guests have described it as being a nice place to eat.
+simple_prompt_cases:               Yes, Little Seoul does offer outdoor seating. It was also mentioned in a review that it has a nice outdoor dining area. Would you like me to make a reservation for you?
+zero_shot_label_cases:             Yes, Little Seoul has an outdoor dining area available for customers.
+two_shot_label_cases:              Yes, Little Seoul has an outdoor dining area available for customers to enjoy their meals.
+three_shot_limited_cases:          Yes, Little Seoul does offer outdoor seating for its guests. Would you like to make a reservation?
+three_shot_limited_tst_cases:      Yes, Little Seoul does have outdoor seating available for guests to enjoy. Would you like to know more about them?
+three_shot_limited_rgtst_cases:    Yes, Little Seoul does offer outdoor seating. Past guests have said that it is very nice and relaxing.
+three_shot_no_limited_cases:       Yes, Little Seoul does offer outdoor seating for its guests. Would you like to make a reservation?
+three_shot_no_limited_tst_cases:   Yes, Little Seoul does have outdoor seating available. Would you like to know more about them?
+three_shot_no_limited_rgtst_cases: Yes, Little Seoul does offer outdoor seating. Past guests have said that it is very nice and relaxing.
+four_shot_no_limited_cases:        Yes, Little Seoul does offer outdoor seating for its guests.
+
+response_label_cases:              Yes, they do. According to past guests of Archway House, the rooms have gorgeous and nice views of downtown.
+baseline_label_cases:              Yes, the Archway House has a fantastic view of the downtown area. Would you like to know more about them?
+simple_prompt_cases:               Based on the reviews, the rooms at Archway House have a nice view.
+zero_shot_label_cases:             Yes, the rooms at Archway House have a fantastic view of the surrounding area.
+two_shot_label_cases:              Yes, the rooms at Archway House have received positive reviews for their nice and relaxing views.
+three_shot_limited_cases:          Yes, the rooms at Archway House have a fantastic view of downtown according to previous guests. Would you like me to proceed with the reservation?
+three_shot_limited_tst_cases:      Yes, the Archway House has a great view of downtown. Would you like to know more about them?
+three_shot_limited_rgtst_cases:    Yes, the Archway House has a great view of downtown. Would you like to book a room?
+three_shot_no_limited_cases:       Yes, the rooms at Archway House have a fantastic view of downtown according to previous guests.
+three_shot_no_limited_tst_cases:   The Archway House has a great view of downtown. Would you like to book a room?
+three_shot_no_limited_rgtst_cases: Yes, the Archway House has a great view of downtown. Would you like to book a room?
+four_shot_no_limited_cases:        Yes, the rooms at Archway House have a nice view of the surrounding area according to previous guests.
+
+response_label_cases:              There are mixed reviews for the beer at Bangkok City. One reviewer did not like the Thai Beer they had while another says the beer was top shelf and ice cold. Is there anything else you like to know about them?
+baseline_label_cases:              Yes, they do serve high-quality beer at Bangkok City. A past guest commented that the beer was top shelf and ice cold.
+simple_prompt_cases:               Yes, Bangkok City offers a wide variety of high-quality beers. They have been praised for their top shelf and ice-cold beer selection in past reviews.
+zero_shot_label_cases:             Yes, they serve top shelf and ice-cold beer.
+two_shot_label_cases:              According to some reviews, the beer at Bangkok City is top shelf and ice cold, while others found the Thai beers to be less pleasing.
+three_shot_limited_cases:          According to reviews, Bangkok City offers a wide variety of drinks, including top-shelf and ice-cold beer.
+three_shot_limited_tst_cases:      The Bangkok City has a wide variety of drinks, including top-shelf and ice-cold beer. Would you like to know more about them?
+three_shot_limited_rgtst_cases:    Yes, Bangkok City does serve high-quality beer. Past guests have said that the drinks are very good and that they have a great selection.
+three_shot_no_limited_cases:       According to reviews, Bangkok City offers a wide variety of drinks including top-shelf beer. However, some customers found the prices to be too high.
+three_shot_no_limited_tst_cases:   The Bangkok City restaurant has a wide variety of drinks including top-shelf beer. Would you like to know more about them?
+three_shot_no_limited_rgtst_cases: The Bangkok City has a wide variety of drinks that are high quality. Would you like to know more about them?
+four_shot_no_limited_cases:        Yes, Bangkok City offers a wide variety of drinks including high-quality beer, although some customers found the prices to be too high.
+
+response_label_cases:              The Reviewers of Limehouse said the views from the room was excellent. One person said it was breathtaking.
+baseline_label_cases:              Yes, Limehouse does have a good view. Past guests have said that the view was breathtaking.
+simple_prompt_cases:               Based on the reviews, Limehouse does not have a specific mention of a good view from the room. However, it is always a good idea to contact the hotel directly to inquire about the view from the room.
+zero_shot_label_cases:             Yes, Limehouse offers a breathtaking view from the rooms.
+two_shot_label_cases:              Yes, Limehouse is known for its breathtaking view from the rooms according to past guests.
+three_shot_limited_cases:          Yes, Limehouse offers a great view from the rooms according to guest reviews. Would you like me to proceed with the reservation?
+three_shot_limited_tst_cases:      Yes, the Limehouse has a great view from the rooms. Would you like to know more about them?
+three_shot_limited_rgtst_cases:    Yes, the Limehouse has a great view from their rooms. Would you like to book a room?
+three_shot_no_limited_cases:       Yes, Limehouse has a great view from the rooms according to multiple guests. Would you like to proceed with the reservation?
+three_shot_no_limited_tst_cases:   Yes, the Limehouse has a great view. Past guests have said that it's great and that it's a great view.
+three_shot_no_limited_rgtst_cases: Yes, the Limehouse has a great view from the rooms. Would you like to book a room?
+four_shot_no_limited_cases:        Yes, Limehouse offers a great view from the rooms according to some guests. Shall I proceed with the reservation?
+
+response_label_cases:              Many people said that the beer tasted really good, but one person did say that the beer was mediocre. Do you want a reservation?
+baseline_label_cases:              Yes, the Golden Curry does have good beers on tap. Looking at the reviews, the majority of customers thought the beer was very good. There were some customers who thought it was just mediocre and bland. Would you like to know more about them?
+simple_prompt_cases:               Based on the reviews, The Golden Curry offers great food and drinks at a wonderful location. Some customers have mentioned that the beer options are fantastic and of high quality. So, yes, The Golden Curry does have good beers on tap. Enjoy your dining experience!
+zero_shot_label_cases:             Yes, The Golden Curry offers a variety of high-quality beers on tap.
+two_shot_label_cases:              The Golden Curry has received mixed reviews regarding their beer. Some guests found it to be mediocre and bland, while others enjoyed the high quality and fantastic taste. Would you like me to recommend another place with consistently good beer options?
+three_shot_limited_cases:          The Golden Curry has received mixed reviews for their beers. Some guests found them to be mediocre and bland, while others enjoyed the high quality and fantastic taste.
+three_shot_limited_tst_cases:      The Golden Curry has a lot of mixed reviews about their beers. Some people say they are mediocre and bland, while others say they are great.
+three_shot_limited_rgtst_cases:    The Golden Curry has mixed reviews on their beers. Some people say they are great, but others say they are bland.
+three_shot_no_limited_cases:       The Golden Curry has received mixed reviews for their beers. Some guests found them to be mediocre and bland, while others enjoyed the high quality and fantastic taste.
+three_shot_no_limited_tst_cases:   The Golden Curry has mixed reviews about their beers. Some people say they are high quality and delicious while others say they are bland and mediocre. Would you like to know more about them?
+three_shot_no_limited_rgtst_cases: The Golden Curry has mixed reviews on their beers. Some people say they are great, but others say they are bland.
+four_shot_no_limited_cases:        Based on customer reviews, The Golden Curry offers a variety of drink options, including both positive and negative reviews for their beers.
+
+response_label_cases:              The Peking Restaurant is in the south part of town and is within walking distance of the downtown nigh life.
+baseline_label_cases:              The Peking Restaurant is in a nice location that is within walking distance to downtown. Would you like the address and phone number?
+simple_prompt_cases:               Based on past reviews, the location of Peking restaurant is within walking distance to downtown, so you can enjoy the nightlife afterwards. However, the atmosphere inside the restaurant left a lot to be desired according to one review. As for accessibility, there is no specific information available.
+zero_shot_label_cases:             Yes, Peking Restaurant is located in a nice area within walking distance to downtown, making it easily accessible.
+two_shot_label_cases:              The Peking Restaurant is located in a nice area within walking distance to downtown, making it accessible and convenient for exploring the nightlife. However, some guests found the atmosphere inside the restaurant to be lacking and the staff to be average.
+three_shot_limited_cases:          The Peking Restaurant is located in a nice area and within walking distance to downtown, making it accessible and convenient for you.
+three_shot_limited_tst_cases:      The Peking Restaurant is located in a nice area and within walking distance to downtown. Would you like to know more about them?
+three_shot_limited_rgtst_cases:    The Peking Restaurant is in a nice area and within walking distance to downtown, so it is easy to get to. Would you like to know more about them?
+three_shot_no_limited_cases:       The Peking Restaurant is located in a nice area and within walking distance to downtown, making it accessible for you. However, some guests have mentioned that the atmosphere inside the restaurant is not desirable.
+three_shot_no_limited_tst_cases:   The Peking Restaurant is in a nice location, but some customers have said that the atmosphere is not very good.
+three_shot_no_limited_rgtst_cases: The Peking Restaurant is in a nice area and within walking distance to downtown, but some customers have said that the atmosphere is not very good.
+four_shot_no_limited_cases:        The Peking Restaurant is located in a nice area within walking distance to downtown, so you can enjoy the nightlife afterwards. However, some customers found the atmosphere inside the restaurant to be lacking and the staff to be average.
+
+response_label_cases:              They both have a really great reviews when it comes to their staff. I don't think it will matter which one you booked. You will get a good experience.
+baseline_label_cases:              Both the Alexander Bed and Breakfast and the El Shaddai have positive reviews for their staff. Would you like to know more about either of them?
+simple_prompt_cases:               Based on the reviews, the Alexander Bed and Breakfast has higher ratings for customer service.
+zero_shot_label_cases:             Based on the reviews, both El Shaddai and Alexander Bed and Breakfast have received positive feedback for their customer service.
+two_shot_label_cases:              Both Alexander Bed and Breakfast and El Shaddai have received positive reviews for their customer service, with guests praising the friendly and welcoming staff at both establishments.
+three_shot_limited_cases:          Both the Alexander Bed and Breakfast and the El Shaddai have received positive reviews for their staff and customer service.
+three_shot_limited_tst_cases:      The Alexander Bed and Breakfast has a very good staff and the El Shaddai has a very good staff.
+three_shot_limited_rgtst_cases:    The Alexander Bed and Breakfast has a very good staff and the El Shaddai has a very good staff. Would you like to book a room?
+three_shot_no_limited_cases:       Both the Alexander Bed and Breakfast and El Shaddai have received positive reviews for their staff and customer service.
+three_shot_no_limited_tst_cases:   Both the Alexander Bed and Breakfast and the El Shaddai have very good reviews about their staff. Would you like to know more about either of them?
+three_shot_no_limited_rgtst_cases: The Alexander Bed and Breakfast has a very good staff that is very friendly and helpful. The El Shaddai has a very good staff that is very friendly.
+four_shot_no_limited_cases:        The Alexander Bed and Breakfast has received positive reviews for their friendly and attentive staff, while the El Shaddai also has positive feedback regarding their staff.
+
+response_label_cases:              Galleria offers alcohol on their menu, including sauvignon blanc which is said to complement meals perfectly. I am not sure about chardonnay.
+baseline_label_cases:              Yes, the Galleria does have high-quality Chardonnay. Would you like me to reserve a table for you?
+simple_prompt_cases:               I'm sorry, but I don't have that information. However, based on past reviews, the drinks at Galleria have been described as phenomenal, so they may have a good selection of wines including chardonnay.
+zero_shot_label_cases:             Yes, Galleria offers a high-quality chardonnay.
+two_shot_label_cases:              Galleria has received mixed reviews regarding their drinks. While some guests found the drinks to be phenomenal, others mentioned issues with the quality of the food and drinks. It's recommended to inquire directly with the establishment for their current selection of chardonnay.
+three_shot_limited_cases:          Based on the reviews, the drinks at Galleria received positive feedback, but there were some issues with the food and drinks being below par and mediocre.
+three_shot_limited_tst_cases:      The Galleria has a lot of positive reviews about their drinks. One person said the drinks were below par and mediocre. Would you like to know more about them?
+three_shot_limited_rgtst_cases:    The Galleria has a lot of good reviews about their drinks. Some people say they were below par and mediocre, but others say they were good.
+three_shot_no_limited_cases:       Based on the reviews, the drinks at Galleria received positive feedback, but there were some negative comments about the food and drinks being below par and mediocre. It's unclear if they offer a high-quality chardonnay.
+three_shot_no_limited_tst_cases:   The Galleria has a lot of mixed reviews about their drinks. Some people say they are good, but others say they are mediocre.
+three_shot_no_limited_rgtst_cases: The Galleria has mixed reviews on their chardonnay. Some say the drinks are good, but others say they're below par.
+four_shot_no_limited_cases:        Based on customer reviews, the quality of the food and drinks at Galleria is mixed. Some customers found the drinks to be phenomenal, while others had issues with the food and drinks being below par and mediocre.
+
+response_label_cases:              Not according to the reviews left by previous guests.  Reviews state that the water pressure is so low that taking a shower is not enjoyable at all.
+baseline_label_cases:              No, the Allenbell doesn't have a strong shower pressure. Past guests have complained about the low water pressure.
+simple_prompt_cases:               Based on a past review, a customer mentioned being frustrated about the low water pressure at a hotel. Unfortunately, I do not have any information about the shower pressure at allenbell hotel. However, I can help you find another hotel in Cambridge that has good reviews regarding shower pressure. Would you like me to do that?
+zero_shot_label_cases:             Based on a previous review, some customers have mentioned experiencing low water pressure during their showers.
+two_shot_label_cases:              According to a review, the water pressure at Allenbell is low, which may affect the enjoyment of your shower.
+three_shot_limited_cases:          Guests have complained about the low water pressure at Allenbell, so the shower pressure may not be strong.
+three_shot_limited_tst_cases:      The Allenbell has a very low water pressure, but it is not a problem. It is rated highly by previous guests.
+three_shot_limited_rgtst_cases:    The Allenbell has a very low water pressure, but it is still very strong. Would you like me to find another place with better ratings?
+three_shot_no_limited_cases:       Guests have mentioned that the water pressure at Allenbell is quite low, which may affect your shower experience.
+three_shot_no_limited_tst_cases:   The Allenbell has a very low water pressure, but it is not a problem for the majority of guests.
+three_shot_no_limited_rgtst_cases: The Allenbell has a very low water pressure, but it is still very good. Would you like me to find another place with better ratings?
+four_shot_no_limited_cases:        Some guests have mentioned that the water pressure at Allenbell is low, which may affect the strength of the shower.
+
+response_label_cases:              A customer at Carolina Bed and Breakfast did not like the location, saying that it was far away from the attractions they wanted to visit.
+baseline_label_cases:              The location of the Carolina Bed and Breakfast is pretty mediocre according to one guest review I found. Do you need more information about it?
+simple_prompt_cases:               Based on a past review, the Carolina Bed and Breakfast had a mediocre location. It seemed too far away from the places the reviewer came to town to visit.
+zero_shot_label_cases:             Based on a past review, Carolina Bed and Breakfast has a mediocre location, which some guests found to be too far away from the places they wanted to visit.
+two_shot_label_cases:              Carolina Bed and Breakfast is not well-regarded for its location, as some guests found it to be too far away from the places they wanted to visit.
+three_shot_limited_cases:          The Carolina Bed and Breakfast is actually located in the east of the city, which some guests found to be too far away from the places they wanted to visit.
+three_shot_limited_tst_cases:      The Carolina Bed and Breakfast is located in the east of the city, but it is not in the center of the city.
+three_shot_limited_rgtst_cases:    The Carolina Bed and Breakfast is in a great location, but some guests found it to be too far from the attractions.
+three_shot_no_limited_cases:       The Carolina Bed and Breakfast is actually located in the east of the city, which some guests found to be too far away from the places they wanted to visit.
+three_shot_no_limited_tst_cases:   The Carolina Bed and Breakfast is located in the east of the city, but it is not in the same area as other places.
+three_shot_no_limited_rgtst_cases: The Carolina Bed and Breakfast is in a great location, but some guests found it to be too far from the attractions.
+four_shot_no_limited_cases:        According to a review, the location of the Carolina Bed and Breakfast was considered mediocre and too far away from the main attractions.
+
+response_label_cases:              The Ashley Hotel has a beautiful view according to previous patrons. Should we book the room now or do you need more information?
+baseline_label_cases:              Yes, the Ashley Hotel does have great views. Past guests have said that they loved the view.
+simple_prompt_cases:               Based on the reviews, there is no mention of great views at the Ashley Hotel. However, I can check if there are any rooms with a view available. Please hold on while I check.
+zero_shot_label_cases:             Yes, the rooms at the Ashley Hotel offer great views.
+two_shot_label_cases:              Yes, according to past guests, the rooms at the Ashley Hotel offer beautiful views, especially from the higher floors.
+three_shot_limited_cases:          Yes, according to reviews, the rooms at the Ashley Hotel offer a beautiful view.
+three_shot_limited_tst_cases:      The Ashley Hotel has a beautiful view of the mountains. Would you like to book a room there?
+three_shot_limited_rgtst_cases:    Yes, the Ashley Hotel has a beautiful view of the city. Would you like to book a room?
+three_shot_no_limited_cases:       Yes, according to reviews, the rooms at the Ashley Hotel offer a beautiful view.
+three_shot_no_limited_tst_cases:   Yes, the Ashley Hotel has a beautiful view. Past guests have said that the view was beautiful.
+three_shot_no_limited_rgtst_cases: Yes, the Ashley Hotel has a beautiful view of the city. Would you like to book a room?
+four_shot_no_limited_cases:        Yes, according to some guests, the rooms at the Ashley Hotel have beautiful views.
+
+response_label_cases:              No, there doesn't appear to be strong water pressure in the showers at the Gonville Hotel. Past guests talk about it being slow.
+baseline_label_cases:              According to the reviews I have on hand for that location, the opinions are mixed.  Half felt the water pressure sucked, while half thought it was better.
+simple_prompt_cases:               Based on past user reviews, the water pressure at the Gonville hotel has been reported to be poor.
+zero_shot_label_cases:             Based on past reviews, the water pressure at the Gonville Hotel has been described as poor and slow.
+two_shot_label_cases:              Based on the reviews, the water pressure in the showers at Gonville Hotel is not strong. Multiple guests mentioned that it was poor and slow.
+three_shot_limited_cases:          Guests have complained about the water pressure at the Gonville Hotel, describing it as weak and slow.
+three_shot_limited_tst_cases:      The Gonville Hotel has a very slow water pressure. Would you like to know more about them?
+three_shot_limited_rgtst_cases:    The Gonville Hotel has a very slow and weak water pressure. Would you like me to find another place with better ratings?
+three_shot_no_limited_cases:       According to multiple reviews, the water pressure at the Gonville Hotel is not very good.
+three_shot_no_limited_tst_cases:   The Gonville Hotel has a very poor water pressure. Is there anything else I can help you with?
+three_shot_no_limited_rgtst_cases: The Gonville Hotel has a very bad water pressure according to one guest. Do you want to look elsewhere?
+four_shot_no_limited_cases:        According to reviews, the water pressure at the Gonville Hotel is not very strong.
+
+response_label_cases:              One guest mentioned that the bathroom was incredibly clean while another said that it lacked in cleanliness.
+baseline_label_cases:              According to the reviews I have on hand for that location, the opinions are mixed.  One third found the bathrooms not appear clean, while two thirds thought they were clean.
+simple_prompt_cases:               Based on the reviews, one guest mentioned that the bathroom didn't appear too clean, while another guest mentioned how clean the room, especially the bathroom, was.
+zero_shot_label_cases:             Yes, there are mixed reviews regarding the cleanliness of the bathroom. One guest mentioned that the bathroom didn't appear too clean, while another guest noticed how clean it was, especially the bathroom.
+two_shot_label_cases:              The reviews for the Carolina Bed and Breakfast are mixed when it comes to the cleanliness of the bathroom. Some guests found it to be not very clean, while others mentioned that it was clean, especially upon arrival.
+three_shot_limited_cases:          Some guests mentioned that the bathroom at Carolina Bed and Breakfast was not clean, while others found it to be clean. The reviews are mixed.
+three_shot_limited_tst_cases:      The Carolina Bed and Breakfast has a very clean bathroom according to one guest. Another said it was not clean.
+three_shot_limited_rgtst_cases:    The Carolina Bed and Breakfast has a very clean bathroom according to one guest, but another said it was not clean.
+three_shot_no_limited_cases:       The reviews for Carolina Bed and Breakfast are mixed when it comes to the cleanliness of the bathroom. Some guests found it to be clean, while others were not satisfied.
+three_shot_no_limited_tst_cases:   The Carolina Bed and Breakfast has a lot of reviews about the cleanliness of the bathrooms. One person said the bathroom was not clean, but another said it was clean.
+three_shot_no_limited_rgtst_cases: The Carolina Bed and Breakfast has a very clean bathroom according to one guest, but another said it was not clean.
+four_shot_no_limited_cases:        The reviews for Carolina Bed and Breakfast are mixed when it comes to the cleanliness of the bathroom. Some guests found it to be clean, while others were not satisfied.
+
+response_label_cases:              The rooms at the Carolina are quite small, unfortunately. Should I search for something that's a little roomier?
+baseline_label_cases:              The Carolina Bed and Breakfast has small rooms according to one guest review I found. Would you like to book a room?
+simple_prompt_cases:               Based on past user reviews, the only complaint about the rooms at the Carolina Bed and Breakfast was that they were small.
+zero_shot_label_cases:             Yes, the rooms at Carolina Bed and Breakfast are on the smaller side.
+two_shot_label_cases:              The rooms at Carolina Bed and Breakfast have mixed reviews regarding their size. Some guests found them to be small, while others did not mention any issues with the room size.
+three_shot_limited_cases:          Some guests mentioned that the rooms at Carolina Bed and Breakfast are small.
+three_shot_limited_tst_cases:      The rooms at the Carolina Bed and Breakfast are small according to one guest. Would you like to book a room there?
+three_shot_limited_rgtst_cases:    The Carolina Bed and Breakfast has small rooms according to one guest. Do you want to book a room?
+three_shot_no_limited_cases:       Some guests have mentioned that the rooms at Carolina Bed and Breakfast are small.
+three_shot_no_limited_tst_cases:   The Carolina Bed and Breakfast has small rooms according to one guest. Do you want to look elsewhere?
+three_shot_no_limited_rgtst_cases: The Carolina Bed and Breakfast has small rooms according to one guest. Do you want to book a room?
+four_shot_no_limited_cases:        Some guests have mentioned that the rooms at Carolina Bed and Breakfast are small.
+
+response_label_cases:              Those that have dined previously at the La Raza restaurant regard its beer quality as being great and a highlight.
+baseline_label_cases:              The La Raza gets some mixed reviews on their beer. Some customers really liked the quality while others found it to be mediocre. Would you like to know more about them?
+simple_prompt_cases:               Based on a review, one customer mentioned that the beer at La Raza seemed to be of great quality along with their other drink choices.
+zero_shot_label_cases:             Based on customer reviews, the quality of beer served at La Raza is generally considered to be great.
+two_shot_label_cases:              The quality of beer served at La Raza has received mixed reviews. While some guests found it to be of great quality, others were disappointed with the drinks and found them to be mediocre.
+three_shot_limited_cases:          The quality of beer served at La Raza has received mixed reviews. Some guests found it to be of great quality, while others felt that the drinks were not well-prepared and tasted mediocre.
+three_shot_limited_tst_cases:      The La Raza has a lot of great reviews about their beer. Some people say the drinks are not well-prepared, but others say they are.
+three_shot_limited_rgtst_cases:    The La Raza has a lot of mixed reviews about their beer. Some people say the beer is great, but others say it's mediocre.
+three_shot_no_limited_cases:       The quality of beer served at La Raza has received mixed reviews. Some guests found it to be of great quality, while others felt that the drinks were not well-prepared and tasted mediocre.
+three_shot_no_limited_tst_cases:   The La Raza has a lot of mixed reviews about their beer. Some people say the drinks are great, but others say they are mediocre.
+three_shot_no_limited_rgtst_cases: The La Raza has a lot of mixed reviews about their beer. Some people say the beer is great, but others say it's mediocre.
+four_shot_no_limited_cases:        The quality of beer served at La Raza has received positive reviews from customers.
+
+response_label_cases:              One positive of dining at the Curry Prince is the view, while the Pizza Hut Fen Ditton also feature enjoyable sights.
+baseline_label_cases:              Both Curry Prince and Pizza Hut Fen Ditton have positive reviews about their views. Would you like to know more about either of them?
+simple_prompt_cases:               Based on past user reviews, it seems that the restaurant with the most interesting view from the table is Curry Prince. Multiple reviews mention enjoying the view and the service being polite and fast.
+zero_shot_label_cases:             Both Curry Prince and Pizza Hut Fen Ditton have positive reviews regarding their views from the table.
+two_shot_label_cases:              Both Curry Prince and Pizza Hut Fen Ditton have positive reviews regarding their views. However, Pizza Hut Fen Ditton has multiple mentions of its "cute view," making it the more interesting option in terms of the view from the table.
+three_shot_limited_cases:          Both Curry Prince and Pizza Hut Fen Ditton have positive reviews about their views. Would you like more information about either of them?
+three_shot_limited_tst_cases:      Curry Prince has a great view of the city and the Pizza Hut Fen Ditton has a great view. Would you like to know more about them?
+three_shot_limited_rgtst_cases:    The Curry Prince has a great view of the city and the Pizza Hut Fen Ditton has a great view of the mountains.
+three_shot_no_limited_cases:       Pizza Hut Fen Ditton has been praised for its cute view by multiple guests, while Curry Prince has also received positive comments about its view.
+three_shot_no_limited_tst_cases:   The Curry Prince has a nice view, but the Pizza Hut Fen Ditton has a nice view.
+three_shot_no_limited_rgtst_cases: The Curry Prince has a cute view, but the Pizza Hut Fen Ditton has a nice view. Would you like to know more about them?
+four_shot_no_limited_cases:        Both Curry Prince and Pizza Hut Fen Ditton have positive reviews about their views.
+
+response_label_cases:              I found two reviews that said the rooms were small and one review that said that they were large. Would you like to look elsewhere?
+baseline_label_cases:              Home from Home has mixed reviews about their room sizes. Some say the rooms are large and comfortable while others say they wished it was bigger. Would you like to know more about them?
+simple_prompt_cases:               Based on the reviews, some guests have mentioned that the size of the rooms at Home from Home is a bit small. However, one guest specifically mentioned that the room was large and comfortable. So, it seems that the room sizes may vary.
+zero_shot_label_cases:             Yes, they have large and comfortable rooms.
+two_shot_label_cases:              Home From Home has mixed reviews regarding room size. Some guests found the rooms to be small, while others enjoyed the spaciousness.
+three_shot_limited_cases:          Some guests found the rooms at Home from Home to be small and wished they were bigger, while others enjoyed the large and comfortable rooms.
+three_shot_limited_tst_cases:      The Home from Home has a lot of small rooms, but the majority of guests said they were large and comfortable.
+three_shot_limited_rgtst_cases:    The Home from Home has small rooms according to one guest, but another said they were large and comfortable.
+three_shot_no_limited_cases:       Some guests found the rooms at Home from Home to be small and wished they were bigger. However, one guest mentioned that the room was large and comfortable.
+three_shot_no_limited_tst_cases:   The rooms at Home from Home are small according to one guest, but another said they were large.
+three_shot_no_limited_rgtst_cases: The Home from Home has small rooms according to one guest. Do you want to book a room?
+four_shot_no_limited_cases:        Some guests have mentioned that the rooms at Home from Home are on the smaller side, but one guest did mention having a large and comfortable room.
+
+response_label_cases:              According to the reviews I have on hand for that location, the views there have been described as nice, relaxing, gorgeous, and fantastic!
+baseline_label_cases:              Yes, the Archway House has a really nice view of downtown. Would you like to know more about them?
+simple_prompt_cases:               Based on the reviews, Archway House does not specifically mention having good views from the rooms. However, some guests have mentioned that the hotel has a nice view.
+zero_shot_label_cases:             Yes, Archway House offers rooms with fantastic views of downtown.
+two_shot_label_cases:              Archway House offers rooms with fantastic views according to multiple guests. You can expect to enjoy a nice view during your stay.
+three_shot_limited_cases:          Yes, Archway House offers rooms with fantastic views of downtown according to multiple guests. Would you like to proceed with the reservation?
+three_shot_limited_tst_cases:      Yes, the Archway House has great views of downtown. Past guests have said that the rooms were very nice and spacious.
+three_shot_limited_rgtst_cases:    Yes, the Archway House does offer good views of downtown. Past guests have said that the rooms were fantastic.
+three_shot_no_limited_cases:       Yes, Archway House offers rooms with fantastic views of downtown according to multiple guests. Would you like to proceed with the booking?
+three_shot_no_limited_tst_cases:   Yes, the Archway House has a great view of downtown. Would you like to book a room there?
+three_shot_no_limited_rgtst_cases: Yes, the Archway House does offer good views of downtown. Past guests have said that the rooms were fantastic.
+four_shot_no_limited_cases:        Yes, Archway House offers rooms with fantastic views of downtown according to previous guests. Would you like me to proceed with the booking?
+
+response_label_cases:              According to the reviews I have on hand for that location, the view has been described as nice, with the scenery being lovely and with guests devoting some time to staring out the window at it.
+baseline_label_cases:              Yes, the rooms at Aylesbray Lodge Guest House do seem to be nice with great views. Past guests have said they enjoyed the view.
+simple_prompt_cases:               Based on the reviews, the rooms at Aylesbray Lodge Guest House are well decorated and offer a nice view of the mountains.
+zero_shot_label_cases:             Yes, the rooms at Aylesbray Lodge Guest House are nice and offer great views of the mountains.
+two_shot_label_cases:              Yes, the rooms at Aylesbray Lodge Guest House are well-decorated and offer beautiful views of the mountains and scenery.
+three_shot_limited_cases:          Yes, the rooms at Aylesbray Lodge Guest House are known for being nice and offering great views according to guest reviews.
+three_shot_limited_tst_cases:      The Aylesbray Lodge Guest House has nice rooms that are very nice and have great views. Would you like to book a room there?
+three_shot_limited_rgtst_cases:    Yes, the Aylesbray Lodge Guest House has nice rooms with great views. Would you like to book a room?
+three_shot_no_limited_cases:       Yes, the rooms at Aylesbray Lodge Guest House are known for being nice and offering great views according to guest reviews.
+three_shot_no_limited_tst_cases:   The Aylesbray Lodge Guest House has nice rooms that are nice and have great views. Would you like to book a room?
+three_shot_no_limited_rgtst_cases: Yes, the Aylesbray Lodge Guest House has nice rooms with great views. Would you like to book a room?
+four_shot_no_limited_cases:        Yes, the rooms at Aylesbray Lodge Guest House are well-decorated and offer a nice view of the mountains according to previous guests.
+
+response_label_cases:              People who reviewed the restaurant say that the service is not good.  Are you still interested in the restaurant?
+baseline_label_cases:              The service at Restaurant One Seven can be mediocre at times. Would you like me to find another option for you?
+simple_prompt_cases:               Based on past user reviews, the service at restaurant one seven has been described as lacking and mediocre.
+zero_shot_label_cases:             Based on past reviews, the service at Restaurant One Seven has been described as lacking and mediocre.
+two_shot_label_cases:              The service at Restaurant One Seven has received mixed reviews, with some customers finding it lacking and mediocre. Would you like me to recommend a restaurant with better service?
+three_shot_limited_cases:          The service at Restaurant One Seven has received mixed reviews, with some guests finding it lacking and mediocre.
+three_shot_limited_tst_cases:      The service at Restaurant One Seven is mediocre according to one customer. Would you like to know more about them?
+three_shot_limited_rgtst_cases:    The service at Restaurant One Seven is mediocre according to one customer. Do you want to look elsewhere?
+three_shot_no_limited_cases:       The service at Restaurant One Seven has received mixed reviews, with some guests finding it lacking and mediocre.
+three_shot_no_limited_tst_cases:   The service at Restaurant One Seven is mediocre according to one customer. Would you like me to find another place with better service?
+three_shot_no_limited_rgtst_cases: The service at Restaurant One Seven is mediocre according to one customer. Do you want to look elsewhere?
+four_shot_no_limited_cases:        The service at Restaurant One Seven has received mixed reviews, with some customers finding it lacking.
+

@@ -1,0 +1,46 @@
+[    [
+    {
+      "speaker": "U",
+      "text": "Please provide me information on the restaurant one seven."
+    },
+    {
+      "speaker": "S",
+      "text": "Restaurant one seven serves British food in the centre area at moderate prices. Would you like to book there?"
+    },
+    {
+      "speaker": "U",
+      "text": "Yes I would like to book a table for 3 people at 20:00 on Wednesday."
+    },
+    {
+      "speaker": "S",
+      "text": "I have you booked for a table of 3 at 20:00 on Wednesday, would you like a confirmation receipt?"
+    },
+    {
+      "speaker": "U",
+      "text": "Yes, please give me the reference number."
+    },
+    {
+      "speaker": "S",
+      "text": "I am sorry the Booking was unsuccessful can I help you find another place in the same area and price range?"
+    },
+    {
+      "speaker": "U",
+      "text": "I am disappointed but willing to try another place in the same area and price range. What do you recommend?"
+    },
+    {
+      "speaker": "S",
+      "text": "There are 21 different restaurants that follow those criteria. Did you want to stay within the british theme or try something else?"
+    },
+    {
+      "speaker": "U",
+      "text": "Yes, we can stick to British please"
+    },
+    {
+      "speaker": "S",
+      "text": "The Oak Bistro was available to be booked, your reference number is EO5VQ6EJ."
+    },
+    {
+      "speaker": "U",
+      "text": "Can you tell me if their eton mess is delicious?"
+    }
+  ]]

@@ -1,0 +1,29 @@
+[
+    {
+        "target": true,
+        "knowledge": [
+            {
+                "domain": "restaurant",
+                "entity_id": 13071,
+                "doc_type": "review",
+                "doc_id": 4,
+                "sent_id": 6
+            },
+            {
+                "domain": "restaurant",
+                "entity_id": 13071,
+                "doc_type": "review",
+                "doc_id": 2,
+                "sent_id": 2
+            },
+            {
+                "domain": "restaurant",
+                "entity_id": 13071,
+                "doc_type": "review",
+                "doc_id": 4,
+                "sent_id": 3
+            }
+        ],
+        "response": "The Oak Bistro gets some great reviews on their Eton Mess. Some say the food is really good while others say it's pricy. Would you like to know more about them?"
+    }
+]
